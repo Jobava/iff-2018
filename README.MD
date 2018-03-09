@@ -67,7 +67,7 @@ Features we want from a translation UI:
 * checks (consistency & formatting & custom)
 * ability to report bad source string to developer
 * ability to ask questions about the source string
-  * does anyone get notified when questions arrive?
+  * does anyone get notified when questions arrive? (yes in weblate)
 
 
 Missing features from tooling today:
