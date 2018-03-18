@@ -1,3 +1,5 @@
+Additional notes can be found [HERE](https://oasis.sandstorm.io/shared/6gSF4ZpS0qZAwjUECzkcNCCM5rQasFAOXrlGQLyYS09)
+
 Workshop plan
 
 ### WHAT?
